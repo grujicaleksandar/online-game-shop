@@ -4,9 +4,7 @@ Spring Boot application(Spring MVC,Spring Data JPA) with Hibernate ORM.
 
 Project summary:
 
-In this app,user can sign up,sign in.
-
-Also,he can view,change or delete his account,and view all games,search for specific game, and add games that he wants to buy to the shopping cart and at the end,to purchase orders from his cart.
+In this app,user can sign up,sign in.Also,he can view,change or delete his account,and view all games,search for specific game, and add games that he wants to buy to the shopping cart and at the end,to purchase orders from his cart.
 
 He can contact admin via contact form and leave message.
 
