@@ -57,3 +57,11 @@ Screenshots
 5. Shopping Cart
 
 ![alt text](https://res.cloudinary.com/gruja90/image/upload/v1519560985/cart.png)
+
+6. Admin Page
+
+![alt text](https://res.cloudinary.com/gruja90/image/upload/c_scale,w_705/v1520188124/admin-page.png)
+
+7. Admin can view messages
+
+![alt text](https://res.cloudinary.com/gruja90/image/upload/v1520188124/admin-messages.png)
