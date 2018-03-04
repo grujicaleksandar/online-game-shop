@@ -1,0 +1,194 @@
+@CHARSET "ISO-8859-1";
+html{
+	
+	margin:0;
+	padding:0;
+	
+}
+body{
+	
+	width:950px;
+	margin:auto;
+	background-image:url(/images/4441326-video-game-wallpapers.jpg);
+	
+}
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+.clearfix { display: inline-block; }
+/* start commented backslash hack \*/
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+/* close commented backslash hack */
+#container{
+	
+	background-color:#d7dde5;
+	
+}
+.banner{
+	background-image:url(/images/support_header_pcGames11.jpg);
+	width:100%;
+	height:250px;
+	
+}
+.image-and-text{
+	
+	padding:20px;
+
+	
+}
+.image-and-text img{
+	
+	float:left;
+	padding-right:20px;
+	text-align:center;
+	
+	
+}
+.image-and-text p{
+	
+	height:250px;
+	
+}
+.game-table{
+	
+	width:90%;
+	margin:auto;
+	
+}
+.game-table tr{
+	
+	border:1px solid #fff;
+	background-color:#bbc3ce;
+	width:22%;
+	
+	display:inline-block;
+	
+}
+
+.game-table td{
+	text-align:center;
+	font-weight:bold;
+	display:block;
+	padding:20px;
+	
+}
+.game-table tr{
+	
+	margin-left:70px;
+	
+}
+.div-price{
+	
+	position:relative;
+	right:-240px;
+	
+}
+.div-price p{
+	
+	font-size:22px;
+	
+}
+.image-and-text p{
+	
+	padding:20px;
+	 box-sizing: border-box;
+	
+}
+.image-and-text a:link,
+.image-and-text a:visited{
+	
+	border: 1px solid #47494c;
+	background-color:#47494c;
+	color:white;
+	text-decoration:none;
+	font-size:18px;
+	padding:10px 15px;
+	
+	border-radius:200px;
+	
+	
+}
+.image-and-text a:hover,
+.image-and-text a:active{
+	
+	border: 1px solid #47494c;
+	background-color:#d7dde5;
+	color:#47494c;
+	text-decoration:none;
+	font-size:18px;
+	padding:10px 15px;
+	
+	border-radius:200px;
+	transition: background-color 0.2s,color 0.2s;
+	
+	
+}
+.ul-nav{
+	
+	list-style:none;
+}
+.ul-nav li{
+	
+	display:inline-block;
+	
+	padding:10px;
+	
+}
+.ul-nav li a:link,
+.ul-nav li a:visited{
+	
+	font-size:18px;
+	text-decoration:none;
+	border:1px solid #47494c;
+	border-radius:10px;
+	background-color:white;
+	padding:4px 10px;
+	color:#47494c;
+	
+}
+.ul-nav li a:hover,
+.ul-nav li a:active,{
+	
+	font-size:18px;
+	text-decoration:none;
+	border:1px solid #47494c;
+	border-radius:10px;
+	background-color:#d7dde5;
+	color:#47494c;
+	padding:4px 10px;
+	color:#47494c;
+	transition:background-color 0.2s,color 0.2s;
+	
+}
+.main-nav{
+	
+	background:url(/images/Capture.png);
+	
+}
+.cart-table{
+	
+	font-size:14px;
+	
+}
+.shopping{
+	
+	margin-bottom:20px;
+	
+}
+.cart{
+	
+	padding:20px;	
+	background-color:#d7dde5;
+	
+}
+.no-game-found {
+	
+	padding:40px;
+	
+}
