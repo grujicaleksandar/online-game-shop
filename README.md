@@ -48,7 +48,7 @@ Screenshots
 
 3.After loggin in
 
-![alt text](https://res.cloudinary.com/gruja90/image/upload/v1519560984/account-drop-down.png)
+![alt text](https://res.cloudinary.com/gruja90/image/upload/v1519560984/online%20game%20shop/account-drop-down.png)
 
 4. Show user's info
 
