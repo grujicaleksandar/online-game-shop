@@ -56,7 +56,7 @@ Screenshots
 
 5. Shopping Cart
 
-![alt text](https://res.cloudinary.com/gruja90/image/upload/v1519560985/cart.png)
+![alt text](https://res.cloudinary.com/gruja90/image/upload/v1519560985/online%20game%20shop/cart.png)
 
 6. Admin Page
 
