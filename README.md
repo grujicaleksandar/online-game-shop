@@ -1,5 +1,5 @@
 Online Game Shop project
-======================
+==================
 Spring Boot application(Spring MVC,Spring Data JPA) with Hibernate ORM.
 
 Project summary:
