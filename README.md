@@ -14,7 +14,7 @@ User can access only few pages without logging in.
 
 
 MySQL
-======================
+================
 
 1.Create schema game_shop:
 
